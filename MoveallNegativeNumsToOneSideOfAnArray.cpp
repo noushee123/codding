@@ -8,7 +8,7 @@ void move(vector<int> arr){
 int main(){
 vector<int> arr = {-1, 2, -3, 4, 5, 6, -7, 8, 9 };
 move(arr);
-if( e : arr)
+for( e : arr)
   cout<<e<<" ";
     return 0;
 }
